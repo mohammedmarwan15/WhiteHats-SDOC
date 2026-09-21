@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+scoring_tool/
+submission.json
